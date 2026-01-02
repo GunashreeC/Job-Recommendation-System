@@ -139,12 +139,19 @@ Hyperparameter optimization was applied for all models.
 ## 11. Folder Structure
 
 Job-Recommendation-System/
+
 ─ cleaned_text.csv
+
 ─ cleaned_text_with_job_info.csv
+
 ─ postings.csv
 ─ companies/          # Company-related datasets
+
 ─ jobs/               # Job-related datasets
-─ mappings/           # Mappings for skills, industries, etc.
+
+─ mappings/           # Mappings for skills, industries.
+
 ─ ML4GEN.ipynb        # Main project notebook
+
 ─ NLP.ipynb           # NLP analysis notebook
 
