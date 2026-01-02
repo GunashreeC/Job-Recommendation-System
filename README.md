@@ -1,9 +1,6 @@
 # Job Recommendation System
 
-## LinkedIn Job Listings Analysis Using Machine Learning
-
-**Authors:** Krithin Ravindra Narayan, Gunashree Channakeshava, Rohan Karle Sudarshan, Gaurav Vankhede  
-**Group Name:** ML4GEN  
+## LinkedIn Job Listings Analysis Using Machine Learning  
 
 ---
 
