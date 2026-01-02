@@ -145,6 +145,7 @@ Job-Recommendation-System/
 ─ cleaned_text_with_job_info.csv
 
 ─ postings.csv
+
 ─ companies/          # Company-related datasets
 
 ─ jobs/               # Job-related datasets
